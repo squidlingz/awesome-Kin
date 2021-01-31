@@ -7,10 +7,10 @@ A curated list of awesome Kin related resources, frameworks, libraries, software
 
 * [Libraries](#libraries)
 * [Documentation](#documentation)
-* [Tutorials](tutorials)
-* [Software](software)
-* [Videos](videos)
-* [Other](other)
+* [Tutorials](#tutorials)
+* [Software](#software)
+* [Videos](#videos)
+* [Other](#other)
 
 ### Libraries
 
