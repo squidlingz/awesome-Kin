@@ -30,6 +30,7 @@ A curated list of awesome Kin related resources, frameworks, libraries, software
 * [pop.in](https://play.google.com/store/apps/details?id=com.smiletime.android) - App for playing live games with other people
 
 ### Videos
+* [Offical Kin Ecosystem Youtube Channel](https://www.youtube.com/channel/UCZ0z9fRKhW-GEjQs-_Jxfyg)
 * [Kin:Build to Scale](https://www.youtube.com/watch?v=CbKQdM0Esv8)
 
 ### Other
