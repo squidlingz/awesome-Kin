@@ -6,11 +6,11 @@ A curated list of awesome Kin related resources, frameworks, libraries, software
 ## Table of Contents
 
 * [Libraries](#libraries)
-* Documentation
-* Tutorials
-* Software
-* Videos
-* Other
+* [Documentation](#documentation)
+* [Tutorials](tutorials)
+* [Software](software)
+* [Videos](videos)
+* [Other](other)
 
 ### Libraries
 
@@ -21,5 +21,6 @@ A curated list of awesome Kin related resources, frameworks, libraries, software
 ### Software
 
 ### Videos
+[Kin:Build to Scale](https://www.youtube.com/watch?v=CbKQdM0Esv8)
 
 ### Other
