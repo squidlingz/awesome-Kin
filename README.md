@@ -33,4 +33,7 @@ A curated list of awesome Kin related resources, frameworks, libraries, software
 * [Offical Kin Ecosystem Youtube Channel](https://www.youtube.com/channel/UCZ0z9fRKhW-GEjQs-_Jxfyg)
 * [Kin:Build to Scale](https://www.youtube.com/watch?v=CbKQdM0Esv8)
 
+### Developers and SkillSets
+* [Link to Google Documents Speadsheet](https://docs.google.com/spreadsheets/d/1MThLvIPvlrhvCrkNC7UWf4vT3F9nObjeKLwajgAajew/edit?usp=sharing)
+
 ### Other
